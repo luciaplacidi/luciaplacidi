@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 - <b>PowerBI</b>
   - [Product Sales Dashboard](https://github.com/luciaplacidi/Product-Sales-Analysis)
   - [Marketing Campaign Analysis & Visualization](https://github.com/luciaplacidi/Marketing-Campaign-Analysis)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 - <b>Tableau</b>
   - [COVID-19 Dashboard](https://github.com/joshmadakor1/EncrypterPOC)
 
