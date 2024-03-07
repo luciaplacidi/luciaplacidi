@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
  
 <h2>🌱 I’m currently working on ...</h2>
-- Financial Analysis in R
+- Sports Analytics
 
 <h2>📚 What I'm reading</h2>
 - The Data Detective: Ten Easy Rules to Make Sense of Statistics by Tim Harford
