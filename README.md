@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p><strong>Programming Languages:</strong> R, SQL, Python</p>
 <p><strong>Data Visualization Tools:</strong> Power BI (DAX), Tableau, Looker Studio</p>
 <p><strong>Techniques:</strong> Statistical Analysis, Hypothesis & A/B Testing, Regression, Classification, Clustering, Exploratory Analysis</p>
-<p><strong>Tools:</strong> Excel (VLOOKUP, XLOOKUP, Pivot Tables), Salesforce, KNIME</p>
+<p><strong>Tools:</strong> Excel (VLOOKUP, XLOOKUP, Pivot Tables), Snowflake, Salesforce, KNIME</p>
 
 <h3>🎓 Education:</h3>
 <p><strong>Bachelor of Science –</strong> Management Information Systems<br>Jan 2019 – May 2022<br>Cumulative GPA: 4.0 out of 4.0</p>
