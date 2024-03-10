@@ -40,11 +40,14 @@ Here are some ideas to get you started:
 - <b>R</b>
   - [Instagram Reach Analysis](https://github.com/luciaplacidi/Instagram-Reach-Analysis)
   - [Uber Data Analysis](https://github.com/luciaplacidi/uber-data-analysis)
+- <b>Python</b>
+  - [Customer Retention Analysis] (https://github.com/luciaplacidi/Customer-Retention-Analysis)
 - <b>PowerBI</b>
   - [Product Sales Dashboard](https://github.com/luciaplacidi/Product-Sales-Analysis)
   - [Marketing Campaign Analysis & Visualization](https://github.com/luciaplacidi/Marketing-Campaign-Analysis)
 - <b>Tableau</b>
   - [COVID-19 Dashboard](https://github.com/joshmadakor1/EncrypterPOC)
+
 
  
 <h2>🌱 I’m currently working on ...</h2>
