@@ -42,6 +42,7 @@ Here are some ideas to get you started:
   - [Uber Data Analysis](https://github.com/luciaplacidi/uber-data-analysis)
 - <b>Python</b>
   - [Customer Retention Analysis](https://github.com/luciaplacidi/Customer-Retention-Analysis)
+  - [Women's Super League Match Prediction](https://github.com/luciaplacidi/WSL-Match-Prediction/tree/main)
 - <b>PowerBI</b>
   - [Product Sales Dashboard](https://github.com/luciaplacidi/Product-Sales-Analysis)
   - [Marketing Campaign Analysis & Visualization](https://github.com/luciaplacidi/Marketing-Campaign-Analysis)
