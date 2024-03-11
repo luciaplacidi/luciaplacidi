@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1>Hi, I'm Lucia! </h1>
 
-<p>I'm currently pursuing a master's in Business Analytics with a concentration in Marketing Analytics</p>
+I'm currently pursuing a master's in Business Analytics with a concentration in Marketing Analytics
 <h3>💻 Technical Skills:</h3>
 <p><strong>Programming Languages:</strong> R, SQL, Python</p>
 <p><strong>Data Visualization Tools:</strong> Power BI (DAX), Tableau, Looker Studio</p>
@@ -47,6 +47,7 @@ Here are some ideas to get you started:
   - [Product Sales Dashboard](https://github.com/luciaplacidi/Product-Sales-Analysis)
   - [Marketing Campaign Analysis & Visualization](https://github.com/luciaplacidi/Marketing-Campaign-Analysis)
 - <b>Tableau</b>
+  - [Tableau Public Profile](https://public.tableau.com/app/profile/lucia.placidi/vizzes)
   - [COVID-19 Dashboard](https://github.com/joshmadakor1/EncrypterPOC)
 
 
