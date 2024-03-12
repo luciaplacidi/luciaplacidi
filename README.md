@@ -48,7 +48,7 @@ I'm currently pursuing a master's in Business Analytics with a concentration in 
   - [Marketing Campaign Analysis & Visualization](https://github.com/luciaplacidi/Marketing-Campaign-Analysis)
 - <b>Tableau</b>
   - [Tableau Public Profile](https://public.tableau.com/app/profile/lucia.placidi/vizzes)
-  - [COVID-19 Dashboard](https://github.com/joshmadakor1/EncrypterPOC)
+  - [COVID-19 Dashboard](https://public.tableau.com/app/profile/lucia.placidi/viz/GlobalCOVID-19VaccineTracker_16759591952180/COVID-19VaccineTracker)
 
 
  
