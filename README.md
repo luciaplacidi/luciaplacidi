@@ -41,6 +41,7 @@ I'm currently pursuing a master's in Business Analytics with a concentration in 
   - [Instagram Reach Analysis](https://github.com/luciaplacidi/Instagram-Reach-Analysis)
   - [Uber Data Analysis](https://github.com/luciaplacidi/uber-data-analysis)
 - <b>Python</b>
+  - [Marketing Ad Campaign A/B Testing](https://github.com/luciaplacidi/Marketing-AB-Test/blob/main/marketing-ab-test.ipynb)
   - [Customer Retention Analysis](https://github.com/luciaplacidi/Customer-Retention-Analysis)
   - [Women's Super League Match Prediction](https://github.com/luciaplacidi/WSL-Match-Prediction/tree/main)
 - <b>PowerBI</b>
