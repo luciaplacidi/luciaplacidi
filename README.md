@@ -25,8 +25,8 @@ I'm currently pursuing a master's in Business Analytics with a concentration in 
 <p><strong>Tools:</strong> Excel (VLOOKUP, XLOOKUP, Pivot Tables), Snowflake, Salesforce, KNIME</p>
 
 <h3>🎓 Education:</h3>
-<p><strong>Bachelor of Science –</strong> Management Information Systems<br>Jan 2019 – May 2022<br>Cumulative GPA: 4.0 out of 4.0</p>
 <p><strong>Master of Science –</strong> Business Analytics<br>Aug 2022 – May 2024<br>Cumulative GPA: 4.0 out of 4.0</p>
+<p><strong>Bachelor of Science –</strong> Management Information Systems<br>Jan 2019 – May 2022<br>Cumulative GPA: 4.0 out of 4.0</p>
 
 <h3>🌏 Languages:</h3>
 <p><strong>Fluent in:</strong> English, Italian</p>
