@@ -34,13 +34,6 @@ I'm an **Insights Analyst at the Australian Sports Foundation**, where I build d
 
 ---
 
-I'm currently pursuing a master's in Business Analytics with a concentration in Marketing Analytics
-<h3>💻 Technical Skills:</h3>
-<p><strong>Programming Languages:</strong> R, SQL, Python</p>
-<p><strong>Data Visualization Tools:</strong> Power BI (DAX), Tableau, Looker Studio</p>
-<p><strong>Techniques:</strong> Statistical Analysis, Hypothesis & A/B Testing, Regression, Classification, Clustering, Exploratory Analysis</p>
-<p><strong>Tools:</strong> Excel (VLOOKUP, XLOOKUP, Pivot Tables), Snowflake, Salesforce, KNIME</p>
-
 <h3>🎓 Education:</h3>
 <p><strong>Master of Science –</strong> Business Analytics<br>May 2024<br>
 <p><strong>Bachelor of Science –</strong> Management Information Systems<br>May 2022<br>
