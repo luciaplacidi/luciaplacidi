@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 <h1>Hi, I'm Lucia! </h1>
 
+🎯 **Insights Analyst** | Data-driven strategist passionate about sport, storytelling, and social impact.  
+📍 Based in Melbourne, Australia | 🌐 [LinkedIn](https://www.linkedin.com/in/lucia-placidi/) | 🖥️ [GitHub](https://github.com/luciaplacidi)
+
 I'm currently pursuing a master's in Business Analytics with a concentration in Marketing Analytics
 <h3>💻 Technical Skills:</h3>
 <p><strong>Programming Languages:</strong> R, SQL, Python</p>
