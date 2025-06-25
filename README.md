@@ -17,16 +17,12 @@ Here are some ideas to get you started:
 
 <h1>Hi, I'm Lucia! </h1>
 
-🎯 **Insights Analyst** | Data-driven strategist passionate about sport, storytelling, and social impact.  
-📍 Based in Melbourne, Australia | 🌐 [LinkedIn](https://www.linkedin.com/in/lucia-placidi/) | 🖥️ [GitHub](https://github.com/luciaplacidi)
-
 ### 💼 Current Role
 I'm an **Insights Analyst at the Australian Sports Foundation**, where I build dashboards, automate workflows, and conduct segmentation analyses to empower fundraising and marketing teams. Previously, I worked with the **NBA** and **Fiesta Analytics**, using data science and visualisation to drive engagement and performance.
 
 ---
 
-### 🧠 Core Skills
-
+### Core Skills
 **Languages:** SQL • Python • R  
 **Data Visualisation:** Power BI (DAX) • Tableau • Looker Studio  
 **Analytics Techniques:** Segmentation • A/B Testing • Regression • Clustering • Machine Learning  
@@ -38,7 +34,7 @@ I'm an **Insights Analyst at the Australian Sports Foundation**, where I build d
 <p><strong>Master of Science –</strong> Business Analytics<br>May 2024<br>
 <p><strong>Bachelor of Science –</strong> Management Information Systems<br>May 2022<br>
 
-<h2>📊 Data Analysis Projects:</h2>
+<h2>📊 Projects:</h2>
 
 - <b>SQL</b>
   - [Apple App Store Ratings Analysis](https://github.com/luciaplacidi/Apple-App-Store)
