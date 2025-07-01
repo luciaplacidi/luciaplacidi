@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1>Hi, I'm Lucia! </h1>
 
-I'm an **Insights Analyst at the Australian Sports Foundation**, where I build dashboards, automate workflows, and conduct segmentation analyses to empower fundraising and marketing teams. Previously, I worked with the **NBA**, **Fiesta Analytics** and the **American Cancer Socity**, using data science and visualisation to drive engagement and performance.
+I'm an **Insights Analyst at the Australian Sports Foundation**, where I build dashboards, automate workflows, and conduct segmentation analyses to empower fundraising and marketing teams. Previously, I worked with the **NBA**, **Fiesta Analytics** and the **American Cancer Socity**, using data, analytics and visualisation to drive engagement and performance.
 
 ---
 
@@ -105,11 +105,11 @@ Other languages and tools:<br>
             <br/> Power BI
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./icons/powerbi.png" width="65px"/>
+            <img src="./icons/sql.png" width="65px"/>
             <br/> SQL
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./icons/powerbi.png" width="65px"/>
+            <img src="./icons/snowflake.png" width="65px"/>
             <br/> Snowflake
         </td>
         
