@@ -74,7 +74,10 @@ Python:<br>
             <img src="./icons/matplotlib.png" width="65px"/>
             <br/> matplotlib
         </td>
-        
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/beautifulsoup.png" width="65px"/>
+            <br/> Beautiful Soup
+        </td>
     </tr>
 </table>
 </div>
@@ -112,7 +115,6 @@ Other languages and tools:<br>
             <img src="./icons/snowflake.png" width="65px"/>
             <br/> Snowflake
         </td>
-        
     </tr>
 </table>
 </div>
