@@ -21,27 +21,27 @@ I'm an **Insights Analyst at the Australian Sports Foundation**, where I build d
 
 ---
 
-## 📊 Featured Projects
+### 📊 Featured Projects
 
-### R
+#### R
 - [Monthly Mean Temperature in Melbourne (1944–2024)](https://github.com/luciaplacidi/melbourne-temp)
 
-### Python
+#### Python
 - [Measuring ROI on Learning & Development Budget Spend](https://github.com/luciaplacidi/L-D-Budget-Analysis)
 - [Customer Retention Analysis](https://github.com/luciaplacidi/Customer-Retention-Analysis)
 - [Women's Super League Match Prediction](https://github.com/luciaplacidi/WSL-Match-Prediction/tree/main)
 
-### Power BI
+#### Power BI
 - [Product Sales Dashboard](https://github.com/luciaplacidi/Product-Sales-Analysis)
 
-### Tableau
+#### Tableau
 - [Tableau Public Profile](https://public.tableau.com/app/profile/lucia.placidi/vizzes)
 - [COVID-19 Dashboard](https://public.tableau.com/app/profile/lucia.placidi/viz/GlobalCOVID-19VaccineTracker_16759591952180/COVID-19VaccineTracker)
 
 ---
 
 <!-- Tech Stack -->
-<h2 align="left" id="tech-stack"> ⚒️ Tech Stack</h2>
+<h3 align="left" id="tech-stack"> ⚒️ Tech Stack</h2>
 
 I am comfortable working with the following languages and software:
 
@@ -133,7 +133,9 @@ Other languages and tools:<br>
 <h2>📚 What I'm reading</h2>
 - The Data Detective: Ten Easy Rules to Make Sense of Statistics by Tim Harford -->
 
-<h2> 🔗 Connect with me:</h2>
+---
+
+<h3> 🔗 Connect with me:</h2>
 
 [<img align="left" alt="LuciaPlacidi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
