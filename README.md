@@ -17,49 +17,119 @@ Here are some ideas to get you started:
 
 <h1>Hi, I'm Lucia! </h1>
 
-### 💼 Current Role
-I'm an **Insights Analyst at the Australian Sports Foundation**, where I build dashboards, automate workflows, and conduct segmentation analyses to empower fundraising and marketing teams. Previously, I worked with the **NBA** and **Fiesta Analytics**, using data science and visualisation to drive engagement and performance.
+I'm an **Insights Analyst at the Australian Sports Foundation**, where I build dashboards, automate workflows, and conduct segmentation analyses to empower fundraising and marketing teams. Previously, I worked with the **NBA**, **Fiesta Analytics** and the **American Cancer Socity**, using data science and visualisation to drive engagement and performance.
 
 ---
 
-### Core Skills
-**Languages:** SQL • Python • R  
-**Data Visualisation:** Power BI (DAX) • Tableau • Looker Studio  
-**Analytics Techniques:** Segmentation • A/B Testing • Regression • Clustering • Machine Learning  
-**Tools:** Excel • Snowflake • Salesforce • KNIME
+## 📊 Featured Projects
+
+### R
+- [Monthly Mean Temperature in Melbourne (1944–2024)](https://github.com/luciaplacidi/melbourne-temp)
+
+### Python
+- [Measuring ROI on Learning & Development Budget Spend](https://github.com/luciaplacidi/L-D-Budget-Analysis)
+- [Customer Retention Analysis](https://github.com/luciaplacidi/Customer-Retention-Analysis)
+- [Women's Super League Match Prediction](https://github.com/luciaplacidi/WSL-Match-Prediction/tree/main)
+
+### Power BI
+- [Product Sales Dashboard](https://github.com/luciaplacidi/Product-Sales-Analysis)
+
+### Tableau
+- [Tableau Public Profile](https://public.tableau.com/app/profile/lucia.placidi/vizzes)
+- [COVID-19 Dashboard](https://public.tableau.com/app/profile/lucia.placidi/viz/GlobalCOVID-19VaccineTracker_16759591952180/COVID-19VaccineTracker)
 
 ---
+
+<!-- Tech Stack -->
+<h2 align="left" id="tech-stack"> ⚒️ Tech Stack</h2>
+
+I am comfortable working with the following languages and software:
+
+Python:<br>
+
+<div align="center">
+<table align="center">
+    <tr>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/python.jpeg" width="65px"/>
+            <br/> Python
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/jupyter.png" width="65px"/>
+            <br/> Jupyter Notebooks
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/pandas.png" width="65px"/>
+            <br/> pandas
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/numpy.png" width="65px"/>
+            <br/> NumPy
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/scikitlearn.png" width="65px"/>
+            <br/> Scikit Learn
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/matplotlib.png" width="65px"/>
+            <br/> matplotlib
+        </td>
+        
+    </tr>
+</table>
+</div>
+
+Other languages and tools:<br>
+
+<div align="center">
+<table align="center">
+    <tr>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/r.png" width="65px"/>
+            <br/> R
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/rstudio.png" width="65px"/>
+            <br/> R Studio
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/tidyverse.png" width="65px"/>
+            <br/> Tidyverse
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/tableau.png" width="65px"/>
+            <br/> Tableau
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/powerbi.png" width="65px"/>
+            <br/> Power BI
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/powerbi.png" width="65px"/>
+            <br/> SQL
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./icons/powerbi.png" width="65px"/>
+            <br/> Snowflake
+        </td>
+        
+    </tr>
+</table>
+</div>
+
+---
+
 
 <h3>🎓 Education:</h3>
 <p><strong>Master of Science –</strong> Business Analytics<br>May 2024<br>
 <p><strong>Bachelor of Science –</strong> Management Information Systems<br>May 2022<br>
 
-<h2>📊 Projects:</h2>
-
-- <b>SQL</b>
-  - [Apple App Store Ratings Analysis](https://github.com/luciaplacidi/Apple-App-Store)
-  - [RFM Analysis](https://github.com/luciaplacidi/RFM_Analysis)
-- <b>R</b>
-  - [Instagram Reach Analysis](https://github.com/luciaplacidi/Instagram-Reach-Analysis)
-  - [Uber Data Analysis](https://github.com/luciaplacidi/uber-data-analysis)
-- <b>Python</b>
-  - [Marketing Ad Campaign A/B Testing](https://github.com/luciaplacidi/Marketing-AB-Test/blob/main/marketing-ab-test.ipynb)
-  - [Customer Retention Analysis](https://github.com/luciaplacidi/Customer-Retention-Analysis)
-  - [Women's Super League Match Prediction](https://github.com/luciaplacidi/WSL-Match-Prediction/tree/main)
-- <b>PowerBI</b>
-  - [Product Sales Dashboard](https://github.com/luciaplacidi/Product-Sales-Analysis)
-  - [Marketing Campaign Analysis & Visualization](https://github.com/luciaplacidi/Marketing-Campaign-Analysis)
-- <b>Tableau</b>
-  - [Tableau Public Profile](https://public.tableau.com/app/profile/lucia.placidi/vizzes)
-  - [COVID-19 Dashboard](https://public.tableau.com/app/profile/lucia.placidi/viz/GlobalCOVID-19VaccineTracker_16759591952180/COVID-19VaccineTracker)
-
-
- 
+ <!--
 <h2>🌱 I’m currently working on ...</h2>
-- Sports Analytics
+- Sports Analytics 
 
 <h2>📚 What I'm reading</h2>
-- The Data Detective: Ten Easy Rules to Make Sense of Statistics by Tim Harford
+- The Data Detective: Ten Easy Rules to Make Sense of Statistics by Tim Harford -->
 
 <h2> 🔗 Connect with me:</h2>
 
