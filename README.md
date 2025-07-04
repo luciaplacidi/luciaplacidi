@@ -35,6 +35,58 @@ I'm an **Insights Analyst at the Australian Sports Foundation**, where I build d
 - [COVID-19 Dashboard](https://public.tableau.com/app/profile/lucia.placidi/viz/GlobalCOVID-19VaccineTracker_16759591952180/COVID-19VaccineTracker)
 -->
 ---
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciaplacidi&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p> -->
+
+<table width="100%" cellspacing="0" cellpadding="10">
+  <tr>
+    <td align="left" valign="top" width="50%">
+      <div style="width: 100%; box-sizing: border-box;">
+        <a href="https://github.com/user/project1">
+          <img src="https://github.com/luciaplacidi/L-D-Budget-Analysis/blob/main/graphs/performance_spend_tier.png?raw=true" width="500" />
+        </a>
+          <p><code>Python</code> <code>Statistical Analysis</code></p>
+        <div><b>Measuring ROI on Learning and Development Budget Spend</b></div>
+        <div>This project investigates the impact of Learning and Development (L&D) spending on employee performance, satisfaction, and engagement.</div>
+      </div>
+    </td>
+    <td align="left" valign="top" width="50%">
+      <div style="width: 100%; box-sizing: border-box;">
+        <a href="https://github.com/user/project2">
+          <img src="https://github.com/luciaplacidi/melbourne-temp/blob/main/graph.png" height="255" />
+        </a>
+        <p><code>Power BI</code> <code>DAX</code> <code>Data Visualisation</code></p>
+        <div><b>HR Employee Dashboard</b></div>
+        <div>This project explores long-term climate patterns using open Australian weather data.</div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="0" cellpadding="10">
+  <tr>
+    <td align="left" valign="top" width="50%">
+      <div style="width: 100%; box-sizing: border-box;">
+        <a href="https://github.com/user/project1">
+          <img src="https://github.com/luciaplacidi/demand-forecasting/blob/main/actual_vs_predicted.png" width="600" />
+        </a>
+          <p><code>Python</code> <code>Machine Learning</code></p>
+        <div><b>Store Demand Forecasting: Predicting Units Sold</b></div>
+        <div>This project builds a machine learning model to predict product-level sales volume using transactional data including pricing, store and product identifiers, and promotional activity.</div>
+      </div>
+    </td>
+    <td align="left" valign="top" width="50%">
+      <div style="width: 100%; box-sizing: border-box;">
+        <a href="https://github.com/user/project2">
+          <img src="https://github.com/luciaplacidi/melbourne-temp/blob/main/graph.png" height="255" />
+        </a>
+        <p><code>d3.js</code></p>
+        <div><b>Monthly Mean Temperature in Melbourne (1944–2024)</b></div>
+        <div>This project explores long-term climate patterns using open Australian weather data.</div>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 <!-- Tech Stack -->
 <h3 align="left" id="tech-stack"> ⚒️ Tech Stack</h2>
