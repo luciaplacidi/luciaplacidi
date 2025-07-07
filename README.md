@@ -22,19 +22,19 @@ I'm an **Insights Analyst at the Australian Sports Foundation**, where I build d
 ---
 
 ### Featured Projects
-
+<!--
 - [Measuring ROI on Learning & Development Budget Spend](https://github.com/luciaplacidi/L-D-Budget-Analysis)
 -  [Women's Super League Match Prediction](https://github.com/luciaplacidi/WSL-Match-Prediction/tree/main)
 - [Monthly Mean Temperature in Melbourne (1944–2024)](https://github.com/luciaplacidi/melbourne-temp)
 - [Tableau Public Profile](https://public.tableau.com/app/profile/lucia.placidi/vizzes)
-<!-- - [Customer Retention Analysis](https://github.com/luciaplacidi/Customer-Retention-Analysis)
+ - [Customer Retention Analysis](https://github.com/luciaplacidi/Customer-Retention-Analysis)
 
 #### Power BI
 - [Product Sales Dashboard](https://github.com/luciaplacidi/Product-Sales-Analysis)
 #### Tableau 
 - [COVID-19 Dashboard](https://public.tableau.com/app/profile/lucia.placidi/viz/GlobalCOVID-19VaccineTracker_16759591952180/COVID-19VaccineTracker)
 -->
----
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciaplacidi&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p> -->
 
 <table width="100%" cellspacing="0" cellpadding="10">
@@ -52,11 +52,12 @@ I'm an **Insights Analyst at the Australian Sports Foundation**, where I build d
     <td align="left" valign="top" width="50%">
       <div style="width: 100%; box-sizing: border-box;">
         <a href="https://github.com/user/project2">
-          <img src="https://github.com/luciaplacidi/melbourne-temp/blob/main/graph.png" height="255" />
+          <img src="https://github.com/luciaplacidi/HR-Dashboard/blob/main/HR%20Dashboard.png" height="255" />
         </a>
         <p><code>Power BI</code> <code>DAX</code> <code>Data Visualisation</code></p>
         <div><b>HR Employee Dashboard</b></div>
-        <div>This project explores long-term climate patterns using open Australian weather data.</div>
+        <div>Interactive HR dashboard summarizing headcount, attrition, tenure, demographics, department/division distribution, and year-over-year changes in satisfaction, engagement, and work-life balance scores.
+</div>
       </div>
     </td>
   </tr>
