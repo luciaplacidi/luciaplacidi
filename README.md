@@ -41,7 +41,7 @@ I'm an **Insights Analyst at the Australian Sports Foundation**, where I build d
   <tr>
     <td align="left" valign="top" width="50%">
       <div style="width: 100%; box-sizing: border-box;">
-        <a href="https://github.com/user/project1">
+        <a href="https://github.com/luciaplacidi/L-D-Budget-Analysis">
           <img src="https://github.com/luciaplacidi/L-D-Budget-Analysis/blob/main/graphs/performance_spend_tier.png?raw=true" width="500" />
         </a>
           <p><code>Python</code> <code>Statistical Analysis</code></p>
@@ -51,7 +51,7 @@ I'm an **Insights Analyst at the Australian Sports Foundation**, where I build d
     </td>
     <td align="left" valign="top" width="50%">
       <div style="width: 100%; box-sizing: border-box;">
-        <a href="https://github.com/user/project2">
+        <a href="https://github.com/luciaplacidi/HR-Dashboard">
           <img src="https://github.com/luciaplacidi/HR-Dashboard/blob/main/HR%20Dashboard.png" height="255" />
         </a>
         <p><code>Power BI</code> <code>DAX</code> <code>Data Visualisation</code></p>
@@ -67,7 +67,7 @@ I'm an **Insights Analyst at the Australian Sports Foundation**, where I build d
   <tr>
     <td align="left" valign="top" width="50%">
       <div style="width: 100%; box-sizing: border-box;">
-        <a href="https://github.com/user/project1">
+        <a href="https://github.com/luciaplacidi/demand-forecasting">
           <img src="https://github.com/luciaplacidi/demand-forecasting/blob/main/actual_vs_predicted.png" width="600" />
         </a>
           <p><code>Python</code> <code>Machine Learning</code></p>
@@ -77,7 +77,7 @@ I'm an **Insights Analyst at the Australian Sports Foundation**, where I build d
     </td>
     <td align="left" valign="top" width="50%">
       <div style="width: 100%; box-sizing: border-box;">
-        <a href="https://github.com/user/project2">
+        <a href="https://github.com/luciaplacidi/melbourne-temp">
           <img src="https://github.com/luciaplacidi/melbourne-temp/blob/main/graph.png" height="255" />
         </a>
         <p><code>d3.js</code></p>
